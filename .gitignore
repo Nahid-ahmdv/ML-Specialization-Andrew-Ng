@@ -1,0 +1,10 @@
+.venv/
+book/
+environment/
+LICENSE/
+environment.yml/
+assignments/
+notes/
+
+(ml_specialization_env)
+
