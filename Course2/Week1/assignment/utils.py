@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs
 
-def sigmoid(x):
+def sigmoid(x): #this function is already vectorized by design.
     return 1 / (1 + np.exp(-x))
 
 # Plot  multi-class training points
