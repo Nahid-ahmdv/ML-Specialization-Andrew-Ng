@@ -1,10 +1,8 @@
 .venv/
 book/
-environment/
 LICENSE/
-environment.yml/
 assignments/
 notes/
-
+.DS_Store
 (ml_specialization_env)
 
